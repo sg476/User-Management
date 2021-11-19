@@ -1,0 +1,16 @@
+ReferenceError: allUser is not defined
+    at /Volumes/Folders/Employee-Portal/emp-portal-backend/src/model/userModel.js:8:20
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Unable to Delete User
+    at /Volumes/Folders/Employee-Portal/emp-portal-backend/src/model/userModel.js:38:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Unable to Delete User
+    at /Volumes/Folders/Employee-Portal/emp-portal-backend/src/model/userModel.js:38:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Unable to Delete User
+    at /Volumes/Folders/Employee-Portal/emp-portal-backend/src/model/userModel.js:39:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Unable to Delete User
+    at /Volumes/Folders/Employee-Portal/emp-portal-backend/src/model/userModel.js:39:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
